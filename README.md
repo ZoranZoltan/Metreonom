@@ -1,2 +1,2 @@
-# Metreonom
+# Metronom
 Merač takta (C#)...
